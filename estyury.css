@@ -1,0 +1,52 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: rgb(220, 187, 251);
+}
+
+.imagenes{
+    text-align: ;
+   
+    display: flex;
+    justify-content: center;
+    gap: 9rem;
+
+
+}
+.ii {
+     width: 250px;
+    height: 250px;
+}
+#id{
+    text-align: left;
+    margin-top: 12px;
+}
+tu{
+    text-align: justify;
+}
+.ccc{
+ 
+    gap: 1.5rem;
+    margin-right: 100px;
+ 
+}
+.y{
+   display: flex; 
+margin-left: -80px;
+border: 0.6 rem solid mediumorchid;
+
+  justify-content: center;
+  margin-right: 200p;
+}
+.y p {
+ border: 0.6 rem solid mediumorchid;
+  margin-right: 250px;
+  margin-left: 40px;
+}
+.boton {
+    margin-top: 20px;
+    background-color: purple;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
