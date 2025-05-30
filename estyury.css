@@ -1,9 +1,10 @@
+/* color,estilo letra del body*/
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 background: linear-gradient(to bottom, #9a47ac, #ba58ba);
 color: rgb(5, 5, 5);
 }
-
+/*centrar imagenes*/
 .imagenes{
     text-align: ;
    
@@ -13,27 +14,14 @@ color: rgb(5, 5, 5);
 
 
 }
+/*tamaño de imagenes*/
 .ii {
      width: 250px;
     height: 250px;
 }
-#id{
-    text-align: left;
-    margin-top: 12px;
-}
-#tu{
-     padding: 10px;
-    background-color: rgb(125, 6, 125);
-    border-radius: 15px; 
-    width: 200px;
-    text-align: justify;
-}
-.ccc{
- 
-    gap: 1.5rem;
-    margin-right: 100px;
- 
-}
+
+
+
 .y{
    display: flex; 
 margin-left: -80px;
@@ -42,11 +30,13 @@ border: 0.6 rem solid mediumorchid;
   justify-content: center;
   margin-right: 200p;
 }
+/* agreagr estilo a los parrafos de la clase y*/
 .y p {
  border: 0.6 rem solid mediumorchid;
   margin-right: 250px;
   margin-left: 40px;
 }
+/* agregar estilo al boton*/
 .boton {
     margin-top: 20px;
     background-color: purple;
@@ -63,6 +53,7 @@ border: 0.6 rem solid mediumorchid;
     color: burlywood;
 
 }
+/*agregar estilo alos titulos h2*/
 h2{
       padding: 10px;
     background-color: purple;
