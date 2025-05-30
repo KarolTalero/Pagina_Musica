@@ -1,21 +1,49 @@
-.imagenes{
+.imagenes{ /* Le coloque los estilos al contenedor de las imagenes*/
     display: flex;
     justify-content: center;
     gap: 5rem;
 }
-.img{
+.img{ /* le coloco los estilos a cada imagen */
     height: 350px;
     margin-top: 12px;
 }
-.boton{
+.boton{ /* le coloco los estilos al boton que nos regresara al inicio */
     background-color: purple;
     padding: 20px;
     border-radius: 20px;
     text-decoration: none;
     color: white;
 }
-.texto{
+.texto{ /* estilos para el texto*/
     display: flex;
     justify-content: center;
     gap: 25rem;
+}
+body{ /* estilos para el cuerpo de la pagina */
+    background-color: rgb(226, 154, 154);
+}
+h1{ /* estilos para el titulo 1*/
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.par1{ /* estilos para algunos parrafos*/
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parr2{
+    font-size: 18px;
+    font-family: cursive;
+}
+h3{
+    font-size: 25px;
+    color: darkred;
+}
+h2{
+    font-size: 29px;
+    text-align: center;
+}
+.lista{
+    font-size: 23px;
 }
