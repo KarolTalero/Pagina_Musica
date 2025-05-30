@@ -1,0 +1,16 @@
+.imagenes{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+.img{
+    height: 350px;
+    margin-top: 12px;
+}
+.boton{
+    background-color: purple;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
