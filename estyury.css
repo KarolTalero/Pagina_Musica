@@ -1,6 +1,7 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-background-color: rgb(220, 187, 251);
+background: linear-gradient(to bottom, #9a47ac, #ba58ba);
+color: rgb(5, 5, 5);
 }
 
 .imagenes{
@@ -20,7 +21,11 @@ background-color: rgb(220, 187, 251);
     text-align: left;
     margin-top: 12px;
 }
-tu{
+#tu{
+     padding: 10px;
+    background-color: rgb(125, 6, 125);
+    border-radius: 15px; 
+    width: 200px;
     text-align: justify;
 }
 .ccc{
@@ -50,3 +55,21 @@ border: 0.6 rem solid mediumorchid;
     text-decoration: none;
     color: white;
 }
+#titulo{
+    padding: 10px;
+    background-color: purple;
+    border-radius: 8px; 
+    width: 200px;
+    color: burlywood;
+
+}
+h2{
+      padding: 10px;
+    background-color: purple;
+    border-radius: 8px; 
+    width: 200px;
+color: burlywood;
+    
+}
+
+
