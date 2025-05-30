@@ -39,3 +39,14 @@ h6{
     left: 0;              /* Lo alinea al borde izquierdo */
     width: 100%; 
 }
+.imagen {
+    width: 100%;
+    justify-content: center;
+display: flex;
+
+}
+.imagen img{
+height: 256px;
+    padding: 20px;
+    border-radius: 70px;
+}
